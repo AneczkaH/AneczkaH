@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  🌱 I’m currently learning test REST API, create test case, report of tests.
 
 ## Courses
-- **Szkoła testowania Backendu** Bartosza Kity - aktualnie w połowie szkolenia. zakończyłam moduły związane z:
+- **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
     - CRUD, 
     - zmienne (kolekcyjne, środowiskowe, generowane automatycznie), 
     - prosty projekt z wykorzystaniem API Trello (utworzenie boarda, dodanie listy aktualizacja oraz usunięcie)
@@ -88,6 +88,7 @@ oparciu o platformę prestashop)
 
 ## My projects
 
+- REST API 
 
 
  ## Books
