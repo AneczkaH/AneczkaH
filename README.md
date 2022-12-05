@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me
 
- 🔭 I’m currently working on test REST API in POSTMAN
+ 🔭 I’m currently working on finding a job 
 
  🌱 I’m currently learning test REST API, create test case, report of tests.
 
