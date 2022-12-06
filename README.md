@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <aneczka.halas@gmail.com> 
  
+ 
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneczkaH)
  
 ## COURSES
