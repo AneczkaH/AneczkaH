@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
  :mortar_board: CRUD, 
  
- :mortar_board: zmienne (kolekcyjne, środowiskowe, generowane automatycznie), 
+ :mortar_board: zmienne (kolekcyjne, środowiskowe, generowane dynamicznie), 
  
  :mortar_board: prosty projekt z wykorzystaniem API Trello (utworzenie boarda, dodanie listy aktualizacja oraz usunięcie)
  
@@ -133,6 +133,7 @@ oparciu o platformę prestashop)
 ## My projects
 
 - REST API - Utworzenie Tablicy dodanie listy dodanie karty do listy, utworzenie drugiej listy, przeniesienie karty z jednej listy do drugiej. Dodanie nazwy jako zmienna generwana dynamicznie. Napisanie testów czy dane się zgadzaja. [Kolekcja tutaj](https://drive.google.com/file/d/1Az4CHroIXjm5Du1w6YtoXGm6WltF3kfr/view?usp=sharing)
+- React challenge [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/react-challenge)
 
 ## I LIKE and READ
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
