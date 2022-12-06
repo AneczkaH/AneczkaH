@@ -24,7 +24,9 @@ Here are some ideas to get you started:
  🌱 I’m currently learning test REST API, create test case, report of tests.
 
  📫 How to reach me: 
+ 
  [<img src="/icons/linkedin.svg"  width="20" height="20">](https://www.linkedin.com/in/anna-ha%C5%82as/)
+ [<img src="/icons/gmail.svg"  width="20" height="20">](aneczka.halas@gmail.com)
  
 ## Courses
 - **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
