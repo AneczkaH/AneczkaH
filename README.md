@@ -30,8 +30,7 @@ Here are some ideas to get you started:
  <img src="/icons/gmail.svg"  width="20" height="20"> <aneczka.halas@gmail.com> 
  
 ## Courses
-- [![image](https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png)](https://akademiaqa.pl/)
-- **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
+- [<img src="https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png" width="8%" height="8%">](https://akademiaqa.pl/) **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
     - CRUD, 
     - zmienne (kolekcyjne, środowiskowe, generowane automatycznie), 
     - prosty projekt z wykorzystaniem API Trello (utworzenie boarda, dodanie listy aktualizacja oraz usunięcie)
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
     - zgłaszenie błędów
     - przygotowanie przypadku testowego
     
-[<img src="/icons/1_INCO_POLSKA.webp" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) **INCODE**
+[<img src="https://static.wixstatic.com/media/e37d76_a06c19407bb240a0ac2f461a20a1ecd9~mv2.png/v1/fill/w_163,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1_INCO_POLSKA.png" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) **INCODE**
 
   :pushpin: podstawy języka JavaScript,
   
