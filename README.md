@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
  📫 How to reach me: 
  
- [<img src="/icons/linkedin.svg"  width="20" height="20">](https://www.linkedin.com/in/anna-ha%C5%82as/)
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- <img src="/icons/gmail.svg"  width="20" height="20"> <aneczka.halas@gmail.com> 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-ha%C5%82as/)
+
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <aneczka.halas@gmail.com> 
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneczkaH)
  
 ## Courses
  [<img src="https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png" width="8%" height="8%">](https://akademiaqa.pl/) **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
@@ -98,7 +97,7 @@ oparciu o platformę prestashop)
 
 ## TOOLS & TECHNOLOGIES
 
-
+BASIC LEVEL
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -111,6 +110,7 @@ oparciu o platformę prestashop)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -130,12 +130,13 @@ oparciu o platformę prestashop)
 
 <img src="/icons/pobrane (5).svg"  width="30" height="30"> Visual Studio Code, <img src="/icons/intellijidea.svg"  width="30" height="30"> IntelliJ IDEA
 
-## My projects
+## MY PROJECTS
 
 - REST API - Utworzenie Tablicy dodanie listy dodanie karty do listy, utworzenie drugiej listy, przeniesienie karty z jednej listy do drugiej. Dodanie nazwy jako zmienna generwana dynamicznie. Napisanie testów czy dane się zgadzaja. [Kolekcja tutaj](https://drive.google.com/file/d/1Az4CHroIXjm5Du1w6YtoXGm6WltF3kfr/view?usp=sharing)
 - React challenge [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/react-challenge)
+- Wykonanie aplikacji, która umożliwia dodanie i przeglądanie harmonogramu pracy pracownika. Dodanie użytkownika, Zalogowany  użytkownik może dodać harmonogram i przeglądać harmonogramy pracy popzostałych użytkowników aplikacji. Dodać walidację podczas dodawania użytkownika. Notyfikacje dla użytkownika. Utworzenie bazy danych i serwera obsługującego aplikację. [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/exercise-6-mr-coffee---login-register-AneczkaH)
 
-## I LIKE and READ
+## I LIKE & READ
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -144,9 +145,11 @@ oparciu o platformę prestashop)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
-## Books
-:books: Mapowanie historyjek użytkownika. Przepis na produkt idealny
-:book: :book:
-- BDD w działaniu. Sterowanie zachowaniem w rozwoju aplikacji
--
-- Czysty kod. Podręcznik dobrego programisty
+## BOOKS
+:books: "Mapowanie historyjek użytkownika. Przepis na produkt idealny" Patton Jeff :book: :book:
+
+:books: "Testowanie w praktyce. Studium przypadków" Opracowanie zbiorowe :book: :book:
+
+:books: "BDD w działaniu. Sterowanie zachowaniem w rozwoju aplikacji" John Ferguson Smart :book: :book:
+
+:books: "Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów" Martin Robert C. :closed_book:
