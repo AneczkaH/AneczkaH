@@ -1,5 +1,21 @@
 ### Hi there 👋 I'm Ania :slightly_smiling_face:
 
+Przez kilkanaście lat pracowałam jako doradca klienta w sprzedaży oprogramowania CAD firmy Autodesk. To nauczyło mnnie jak ważne jest wysłuchanie klienta i poznanie jego potrzeb, a nie uszczęśliwianie na siłę :wink: Zajmowałam się również licencjonowaniem oprogramowania. 
+
+Praca z ludźmi sprawia mi przyjemność, jestem komunikatywna, lubię uczyć się nowych rzeczy.
+
+Zwracam uwagę na szczegóły :slightly_smiling_face: **Jakość aplikacji nie jest mi obojętna.** 
+
+Intersuje mnie proces rozwoju oprogramowania determinowany zachowaniem, ukierunkowany na spełnianie określonych wymagań (BDD) oraz mapowanie historyjek użytkownika.
+
+Prywatnie :slightly_smiling_face: fanka kawy :coffee: i Italii.
+
+Lubie majsterkować, składać meble ogólnie DIY, a malowanie ścian mnie relaksuje :stuck_out_tongue_winking_eye:
+
+:book: Czytam w przerwach między literaturą dziecięcą :joy:
+
+Uwielbiam poznawać nowe kraje, ludzi, obyczje, nowe smaki, miejsca itd. 
+
 <!--
 **AneczkaH/AneczkaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# PORTFOLIO
-
-## About me
-
- 🔭 I’m currently working on finding a job 
+ 🔭 I’m currently working on finding a job :slightly_smiling_face:
 
  🌱 I’m currently learning test REST API, create test case, report of tests.
 
@@ -28,9 +40,10 @@ Here are some ideas to get you started:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-ha%C5%82as/)
 
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <aneczka.halas@gmail.com> 
+ 
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneczkaH)
  
-## Courses
+## COURSES
  [<img src="https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png" width="8%" height="8%">](https://akademiaqa.pl/) **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
  
  :mortar_board: CRUD, 
@@ -52,12 +65,13 @@ Here are some ideas to get you started:
   :pushpin: testy aplikacji mobilnej i webowej. [Raport błędów tutaj](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
     
   :pushpin: Zadania z SQL [Rozwiązania kliknij tutaj](https://drive.google.com/file/d/1rrWQEbWBLR9dF1N-Hyoqdz5nzBqgnu46/view?usp=sharing)
-       
+         
 [<img src="https://static.wixstatic.com/media/e37d76_a06c19407bb240a0ac2f461a20a1ecd9~mv2.png/v1/fill/w_163,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1_INCO_POLSKA.png" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) 
 
+  
 **INCODE** 3 miesięczny kurs pomagający przejśc drogę od osoby początkującej do  junior web developerki/a.
 
-  :pushpin: podstawy języka JavaScript,
+  :mortar_board: podstawy języka JavaScript,
   
   :mortar_board: utworzenie strony internetowej w oparciu o otrzymaną makietę i niezbędne grafiki . (HTML, CSS,)
     
@@ -67,6 +81,7 @@ Here are some ideas to get you started:
   
   :mortar_board: utworzenie aplikacji wykorzystując: JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, EJS, Linux, jQuery [Główny projekt tutaj](https://github.com/AneczkaH/exercise-6-mr-coffee---login-register-AneczkaH)
 
+ 
 <img src="https://www-api.coderslab.pl/uploads/media/default/0001/05/ff394592db15af20cb5da412bed7ffae719a0aeb.png" width="10%" height="10%"> 
 
 **Automatyzacja testów** (kurs 40h) Podstawy języka Java (obiekty, klasy, pakiety, wyjątki, dziedziczenie), GIT, Linux, Jmeter. Praca w InteliJ IDE. Tworzenie skryptów testowych (Selenium WebDriver, framework JUnit, Cucumber, Page Object Pattern) oraz prezentacja pracy własnej na zaliczenie kursu
