@@ -26,7 +26,8 @@ Here are some ideas to get you started:
  📫 How to reach me: 
  
  [<img src="/icons/linkedin.svg"  width="20" height="20">](https://www.linkedin.com/in/anna-ha%C5%82as/)
- [<img src="/icons/gmail.svg"  width="20" height="20">](aneczka.halas@gmail.com)
+ 
+ <img src="/icons/gmail.svg"  width="20" height="20"> <aneczka.halas@gmail.com> 
  
 ## Courses
 - **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
@@ -35,22 +36,23 @@ Here are some ideas to get you started:
     - prosty projekt z wykorzystaniem API Trello (utworzenie boarda, dodanie listy aktualizacja oraz usunięcie)
     - Autentykacja i autoryzacja z wykozystaniem Github.
 
-- **DareIT QA Challenge** - [link do repozytorum wykonanego podczas wyzwania](https://github.com/AneczkaH/challenge_portfolio_Ania) - Wyzwanie trwało 6 tygodni w trakcie których wykonałam 6 zadań:
+- [<img src="/icons/6368ee1045b9144361231bfa_logo-dareit-challenge.svg">](https://www.dareit.io/challenges#kursy) **QA Challenge**- [link do repozytorum wykonanego podczas wyzwania](https://github.com/AneczkaH/challenge_portfolio_Ania) - Wyzwanie trwało 6 tygodni w trakcie których wykonałam 6 zadań:
     - testy eksploracyjne, 
     - tworzenie przypadków testowych
     - raportowanie błędów 
     - testy aplikacji mobilnej i webowej.
     - 2 zadania z SQL.
+    
  - **CherryIT projekt**
     - praca w sprintach 2 tygodniowych, wysyłanie daily
     - zgłaszenie błędów
     - przygotowanie przypadku testowego
     
- - **INCODE** INCO Academy - podstawy języka JavaScript,
-    - GIT
-    - utworzenie strony internetowej w oparciu o otrzymaną makietę i niezbędne grafiki . (HTML, CSS,)
-    - testowanie z wykorzystaniem framework'a Jest.js
-    - utworzenie aplikacji wykorzystując: JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, EJS, Linux, jQuery
+- [<img src="/icons/1_INCO_POLSKA.webp" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) **INCODE** - podstawy języka JavaScript,
+     - GIT
+     - utworzenie strony internetowej w oparciu o otrzymaną makietę i niezbędne grafiki . (HTML, CSS,)
+     - testowanie z wykorzystaniem framework'a Jest.js
+     - utworzenie aplikacji wykorzystując: JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, EJS, Linux, jQuery
 
 - **Coders LabCoders Lab** (kurs 40h) Podstawy języka Java (obiekty, klasy, pakiety, wyjątki, dziedziczenie), GIT, Linux, Jmeter. Praca w InteliJ IDE. Tworzenie skryptów testowych (Selenium WebDriver, framework JUnit, Cucumber, Page Object Pattern) oraz prezentacja pracy własnej na zaliczenie kursu
 - **Coders LabCoders Lab** (2019 – 2019) Tester Manualny
