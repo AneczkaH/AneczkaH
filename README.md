@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on finding a job :slightly_smiling_face:
 
- 🌱 I’m currently learning test REST API, create test case, report of tests.
+ 🌱 I’m currently learning test REST API, create test case, report of tests and test automatizacion.
 
  📫 How to reach me: 
  
