@@ -152,7 +152,7 @@ BASIC LEVEL
 - React challenge [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/react-challenge)
 - Wykonanie aplikacji, która umożliwia dodanie i przeglądanie harmonogramu pracy pracownika. Dodanie użytkownika, Zalogowany  użytkownik może dodać harmonogram i przeglądać harmonogramy pracy popzostałych użytkowników aplikacji. Dodać walidację podczas dodawania użytkownika. Notyfikacje dla użytkownika. Utworzenie bazy danych i serwera obsługującego aplikację. [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/exercise-6-mr-coffee---login-register-AneczkaH)
 
-## I LIKE & READ
+## I LIKE & USE
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
