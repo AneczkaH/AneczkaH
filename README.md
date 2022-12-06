@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  <img src="/icons/gmail.svg"  width="20" height="20"> <aneczka.halas@gmail.com> 
  
 ## Courses
+- [![image](https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png)](https://akademiaqa.pl/)
 - **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
     - CRUD, 
     - zmienne (kolekcyjne, środowiskowe, generowane automatycznie), 
@@ -48,8 +49,15 @@ Here are some ideas to get you started:
     - zgłaszenie błędów
     - przygotowanie przypadku testowego
     
-- [<img src="/icons/1_INCO_POLSKA.webp" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) **INCODE** - podstawy języka JavaScript,
-     - GIT
+[<img src="/icons/1_INCO_POLSKA.webp" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) **INCODE**
+
+  :pushpin: podstawy języka JavaScript,
+  
+  :mortar_board:
+    
+  :octocat: GIT
+  :paperclip:
+     
      - utworzenie strony internetowej w oparciu o otrzymaną makietę i niezbędne grafiki . (HTML, CSS,)
      - testowanie z wykorzystaniem framework'a Jest.js
      - utworzenie aplikacji wykorzystując: JavaScript, Node.js, Express.js, PostgreSQL, HTML, CSS, EJS, Linux, jQuery
@@ -99,7 +107,8 @@ oparciu o platformę prestashop)
 
 
  ## Books
-- Mapowanie historyjek użytkownika. Przepis na produkt idealny
+:books: Mapowanie historyjek użytkownika. Przepis na produkt idealny
+:book: :book:
 - BDD w działaniu. Sterowanie zachowaniem w rozwoju aplikacji
 -
 - Czysty kod. Podręcznik dobrego programisty
