@@ -148,7 +148,9 @@ BASIC LEVEL
 
 ## MY PROJECTS
 
-- REST API - Utworzenie Tablicy dodanie listy dodanie karty do listy, utworzenie drugiej listy, przeniesienie karty z jednej listy do drugiej. Dodanie nazwy jako zmienna generwana dynamicznie. Napisanie testów czy dane się zgadzaja. [Kolekcja tutaj](https://drive.google.com/file/d/1Az4CHroIXjm5Du1w6YtoXGm6WltF3kfr/view?usp=sharing)
+- REST API 
+     - Projek Trello: utworzenie tablicy, dodanie listy, dodanie karty do listy, utworzenie drugiej listy, przeniesienie karty z jednej listy do drugiej. Dodanie nazwy jako zmienna generwana dynamicznie. Napisanie testów sprawdzających, czy dane się zgadzają. [Kolekcja tutaj](https://drive.google.com/file/d/1Az4CHroIXjm5Du1w6YtoXGm6WltF3kfr/view?usp=sharing)
+     - Projekt Github: autentykacja Auth2 z utworzeniem danych środowiskowych i dziedziczenie autentykacji w zapytaniach z poziomu kolekcji, dodanie gista, aktualizacja oraz usuniecie. (POST, PATCH, DELETE) [Kolekcja tutaj](https://drive.google.com/file/d/12DUwqUAmA22EUqwkhldudFcJ6NYCGkl6/view?usp=sharing) 
 - React challenge [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/react-challenge)
 - Wykonanie aplikacji, która umożliwia dodanie i przeglądanie harmonogramu pracy pracownika. Dodanie użytkownika, Zalogowany  użytkownik może dodać harmonogram i przeglądać harmonogramy pracy popzostałych użytkowników aplikacji. Dodać walidację podczas dodawania użytkownika. Notyfikacje dla użytkownika. Utworzenie bazy danych i serwera obsługującego aplikację. [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/exercise-6-mr-coffee---login-register-AneczkaH)
 
