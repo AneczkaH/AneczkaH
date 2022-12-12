@@ -59,11 +59,15 @@ Here are some ideas to get you started:
 
 **QA Challenge**- [link do repozytorum wykonanego podczas wyzwania](https://github.com/AneczkaH/challenge_portfolio_Ania) - Wyzwanie trwało 6 tygodni w trakcie których wykonałam 6 zadań:
 
-  :pushpin: testy eksploracyjne, 
+  :pushpin: testy eksploracyjne aplikacji [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) | [Focusly](https://focusly.co/) | [swipeTo](https://swipeto.pl/) , 
     
-  :pushpin: tworzenie przypadków testowych i raportowanie błędów [Patrz tutaj](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
+  :pushpin: tworzenie przypadków testowych dla aplikacji [Pick Eat Up](https://pickeatup.io/) oraz [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl)
+  
+  :pushpin: raportowanie błędów  [Patrz tutaj](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
     
-  :pushpin: testy aplikacji mobilnej i webowej. [Raport błędów tutaj](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
+  :pushpin: testy aplikacji mobilnej [Focusly](https://focusly.co/) [Raport błędów tutaj](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
+  
+  :pushpin: testy aplikacji wbowej [swipeTo](https://swipeto.pl/) w ramach pracy grupowej w jira tutaj podgląd moich zgłoszeń
     
   :pushpin: Zadania z SQL [Rozwiązania kliknij tutaj](https://drive.google.com/file/d/1rrWQEbWBLR9dF1N-Hyoqdz5nzBqgnu46/view?usp=sharing)
          
