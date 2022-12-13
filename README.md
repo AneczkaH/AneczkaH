@@ -63,9 +63,9 @@ Here are some ideas to get you started:
     
   :pushpin: tworzenie przypadków testowych dla aplikacji [Pick Eat Up](https://pickeatup.io/) [Praca w grupie, wynik tutaj](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) [Tworzenie przypadków testowych w oparciu o historyjki uzytkownika](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz [Tworzenie przypadków testowych w oparciu o doświadczenie](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
   
-  :pushpin: raportowanie błędów  [Patrz tutaj](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
+  :pushpin: raportowanie błędów patrz [tutaj](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
     
-  :pushpin: testy aplikacji mobilnej [Focusly](https://focusly.co/) [Raport błędów tutaj](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
+  :pushpin: testy aplikacji mobilnej [Focusly](https://focusly.co/) Raport błędów [tutaj](https://docs.google.com/spreadsheets/d/1_qmMgbVXrp-howRCGKj6EW0n3Ya0Fw5SR-VVO0kvsIM/edit?usp=sharing)
   
   :pushpin: testy aplikacji wbowej [swipeTo](https://swipeto.pl/) w ramach pracy grupowej w jira tutaj podgląd moich zgłoszeń
     
