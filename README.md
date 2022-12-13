@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
   :pushpin: testy eksploracyjne aplikacji [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) | [Focusly](https://focusly.co/) | [swipeTo](https://swipeto.pl/) , 
     
-  :pushpin: tworzenie przypadków testowych dla aplikacji [Pick Eat Up](https://pickeatup.io/) [Praca w grupie, wynik tutaj](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) [Tworzenie przypadków testowych w oparciu o historyjki uzytkownika](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz [Tworzenie przypadków testowych w oparciu o doświadczenie](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
+  :pushpin: tworzenie przypadków testowych dla aplikacji [Pick Eat Up](https://pickeatup.io/) [Praca w grupie, wynik tutaj](https://docs.google.com/document/d/10ITHeYiyAGZT9PxhHSUMOt0QOAbAxj6x/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) Tworzenie przypadków testowych w oparciu o historyjki uzytkownika[tutaj](https://docs.google.com/document/d/12IQTMrLlmiYL3-2tv45tQ4LixHK77mXL/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true) oraz Tworzenie przypadków testowych w oparciu o doświadczenie [tutaj](https://docs.google.com/document/d/1QFMPe0oa-9lypDsWDupMizY6hNGDJSIN/edit?usp=sharing&ouid=103746433813255072256&rtpof=true&sd=true)
   
   :pushpin: raportowanie błędów patrz [tutaj](https://docs.google.com/spreadsheets/d/1kkoFV9JfoCTPTZBvWDkPWeZYtGc6hH42n3EWQscOmbI/edit?usp=sharing)
     
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
   :pushpin: testy aplikacji wbowej [swipeTo](https://swipeto.pl/) w ramach pracy grupowej w jira tutaj podgląd moich zgłoszeń
     
-  :pushpin: Zadania z SQL [Rozwiązania kliknij tutaj](https://drive.google.com/file/d/1rrWQEbWBLR9dF1N-Hyoqdz5nzBqgnu46/view?usp=sharing)
+  :pushpin: Zadania z SQL Rozwiązania [tutaj](https://drive.google.com/file/d/1rrWQEbWBLR9dF1N-Hyoqdz5nzBqgnu46/view?usp=sharing)
          
 [<img src="https://static.wixstatic.com/media/e37d76_a06c19407bb240a0ac2f461a20a1ecd9~mv2.png/v1/fill/w_163,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1_INCO_POLSKA.png" width="10%" height="10%">](https://www.incopolska.org/incode?lang=pl) 
 
