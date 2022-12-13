@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
  📫 How to reach me: 
  
-<a href="https://www.linkedin.com/in/anna-ha%C5%82as/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anna-ha%C5%82as/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <aneczka.halas@gmail.com> 
  
