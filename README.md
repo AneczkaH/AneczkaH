@@ -159,9 +159,9 @@ BASIC LEVEL
 - Wykonanie aplikacji, która umożliwia dodanie i przeglądanie harmonogramu pracy pracownika. Dodanie użytkownika, Zalogowany  użytkownik może dodać harmonogram i przeglądać harmonogramy pracy popzostałych użytkowników aplikacji. Dodać walidację podczas dodawania użytkownika. Notyfikacje dla użytkownika. Utworzenie bazy danych i serwera obsługującego aplikację. [Repozytorium znajdziesz tutaj](https://github.com/AneczkaH/exercise-6-mr-coffee---login-register-AneczkaH)
 
 ## I LIKE & USE
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
