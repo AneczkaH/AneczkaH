@@ -1,8 +1,6 @@
-<head>
- <base target="_blank">
-</head>
+<base target="_blank">
 
- ### Hi there 👋 I'm Ania :slightly_smiling_face:
+### Hi there 👋 I'm Ania :slightly_smiling_face:
 
 Przez kilkanaście lat pracowałam jako doradca klienta w sprzedaży oprogramowania CAD firmy Autodesk. To nauczyło mnnie jak ważne jest wysłuchanie klienta i poznanie jego potrzeb, a nie uszczęśliwianie na siłę :wink: Zajmowałam się również licencjonowaniem oprogramowania. 
 
@@ -45,8 +43,6 @@ Here are some ideas to get you started:
 
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <aneczka.halas@gmail.com> 
  
- 
- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AneczkaH)
  
 ## COURSES
  [<img src="https://akademiaqa.pl/wp-content/uploads/2020/01/aka_logo-1.png" width="8%" height="8%">](https://akademiaqa.pl/) **Szkoła testowania Backendu** Bartosza Kity - aktualnie jestem w połowie szkolenia. zakończyłam moduły związane z:
