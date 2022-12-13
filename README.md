@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Ania :slightly_smiling_face:
+<head>
+ <base target="_blank">
+</head>
+
+ ### Hi there 👋 I'm Ania :slightly_smiling_face:
 
 Przez kilkanaście lat pracowałam jako doradca klienta w sprzedaży oprogramowania CAD firmy Autodesk. To nauczyło mnnie jak ważne jest wysłuchanie klienta i poznanie jego potrzeb, a nie uszczęśliwianie na siłę :wink: Zajmowałam się również licencjonowaniem oprogramowania. 
 
