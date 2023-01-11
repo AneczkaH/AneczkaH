@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 [<img src="/icons/6368ee1045b9144361231bfa_logo-dareit-challenge.svg">](https://www.dareit.io/challenges#kursy) 
 
-**QA Challenge**- [link do repozytorum wykonanego podczas wyzwania](https://github.com/AneczkaH/challenge_portfolio_Ania) - Wyzwanie trwało 6 tygodni w trakcie których wykonałam 6 zadań:
+**QA Challenge**- [link do repozytorum wykonanego podczas wyzwania](https://github.com/AneczkaH/challenge_portfolio_Ania) - Wyzwanie trwało 7 tygodni w trakcie których wykonałam 7 zadań:
 
   :pushpin: testy eksploracyjne aplikacji [futbolkolektyw.pl](https://scouts-test.futbolkolektyw.pl/pl) | [Focusly](https://focusly.co/) | [swipeTo](https://swipeto.pl/) , 
     
