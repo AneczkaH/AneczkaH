@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  
  :mortar_board: prosty projekt z wykorzystaniem API Trello (utworzenie boarda, dodanie listy aktualizacja oraz usunięcie)
  
- :mortar_board: Autentykacja i autoryzacja z wykozystaniem Github.
+ :mortar_board: Autentykacja i autoryzacja z wykorzystaniem Github.
 
 [<img src="/icons/6368ee1045b9144361231bfa_logo-dareit-challenge.svg">](https://www.dareit.io/challenges#kursy) 
 
